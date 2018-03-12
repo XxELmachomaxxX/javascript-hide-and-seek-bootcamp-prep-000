@@ -1,14 +1,14 @@
 function getFirstSelector(selector) {
-  document.getElementById('selector')
-  return nestedTarget
-}
+document.querySelector('selector' === selector)
+  return selector
+}  
 
 function nestedTarget() {
  
 }
 
 function increaseRankBy(n) {
-  n = (rankedlist + 4)
+  n = rankedlist + 4
 }
 
 function deepestChild() {
